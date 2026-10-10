@@ -17,3 +17,9 @@ git log           # 查看历史
 - 工作区：写代码的文件夹
 - 暂存区：git add 后文件去的地方
 - 本地仓库：git commit 后存在 .git 里
+
+### 提交规范（commit类型前缀）
+feat: 新功能/新题目
+fix: 修复bug
+docs: 笔记
+test: 周测
