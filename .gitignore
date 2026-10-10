@@ -1,0 +1,12 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+*.gch
+
+# 输出目录
+output/
+build/
+bin/
+dist/
