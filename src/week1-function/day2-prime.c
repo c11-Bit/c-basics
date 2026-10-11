@@ -13,6 +13,6 @@ int isprime(int a){
 int main(){
     int a;
     scanf("%d",&a);
-    printf("%d",isprime(a));
+    printf("%d",isprime(a));//isprime(a)调用 后面接受return返回来的值
     return 0;
 }
