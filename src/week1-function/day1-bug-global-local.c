@@ -1,4 +1,4 @@
-## Day1 全局局部变量重名
+// Day1 全局局部变量重名
 #include <stdio.h>
 
 int count = 0;
