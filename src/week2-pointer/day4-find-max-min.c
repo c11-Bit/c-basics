@@ -31,7 +31,7 @@ int main() {
     
     printf("请输入 %d 个数字: ", n);
     for (int i = 0; i < n; i++) {
-        scanf("%d", &arr[i]);
+        scanf("%d", &arr[i]);//遍历数组
     }
 
     // 2. 调用函数。把 max_val 和 min_val 的地址交出去！
