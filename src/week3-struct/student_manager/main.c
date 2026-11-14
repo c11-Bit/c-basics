@@ -4,7 +4,7 @@
 int main() {
     int choice;
 
-    while (1) {
+    while (1) {//要程序不退出 就一直循环执行大括号里的代码
         printf("\n=== 学生成绩管理系统 ===\n");
         printf("1. 添加学生\n");
         printf("2. 删除学生\n");
